@@ -95,6 +95,7 @@ inputs.forEach((input)=>{
     input.addEventListener("blur", blurFunc);
 })
 
+
  /*SCROLL */
  const sections = document.querySelectorAll("section[id]");
 
